@@ -1,3 +1,3 @@
 ## Dark realm
 
-This is the website of the RUST server [Dark realm](darkrealm.es)
+This is the website of the RUST server [Dark realm](https://darkrealm.es)
