@@ -22,7 +22,7 @@ const Header = () => {
             </div>
             <MotionTransition position="bottom" className="absolute z-40 inline-block w-full top-5 md:top-10">
               <div className="container justify-between max-w-6xl mx-auto md:flex">
-                <button className="big-grey-button" onClick={() => window.location.href = 'https://discord.gg/5htWutRn'}>
+                <button className="big-grey-button" onClick={() => window.location.href = 'https://discord.gg/mfn4ENWbDK'}>
                   <img src="discord.png" alt="image-alt" />
                   <span>Join our Discord!</span>
                 </button>
