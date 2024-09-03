@@ -1,3 +1,4 @@
+"use client"
 // src/components/LanguageDropdown.tsx
 import React, { useState } from 'react';
 

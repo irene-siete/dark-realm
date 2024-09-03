@@ -3,13 +3,9 @@
 @tailwind utilities;
 
 html, 
-body{
-  color: #fff;
-  background: #261e41
-}
+body{}
 
 main {
-  background: #3e2255;
   height: 100vh;
   height: 100dvh;
 }
@@ -20,51 +16,10 @@ main {
   }
 }
 
-.image-container {
-  display: grid;
-  place-items: center;
-  width: 100%;
-  max-height: 200px;
-  margin-top: -120px;
-}
-
-.image-container img {
-  max-width: 50%;
-  height: auto;
-  margin: 0 auto; /* center the image horizontally */
-}
-
-.big-grey-button {
-  position: absolute;
-  top: 300px;
-  left: 49%;
-  transform: translate(-50%, -50%);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 300px; /* Increased width */
-  height: 60px;
-  background-color: #333;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  cursor: pointer;
-}
-
-.big-grey-button img {
-  width: 40px;
-  height: 40px;
-  margin-right: 20px;
-}
-
-.big-grey-button span {
-  font-size: 24px;
-  color: #fff;
-}
-
 /* src/components/LanguageDropdown.css */
 .language-dropdown {
   position: absolute;
-  top: -50px;
+  top: 5px;
   right: 0;
   margin: 10px;
 }
