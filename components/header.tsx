@@ -24,7 +24,7 @@ const Header = () => {
 				{/* <MotionTransition position="bottom" className="absolute z-40 inline-block w-full top-5 md:top-10"> */}
 				<Link
 					href='https://discord.gg/5htWutRn'
-					className='flex items-center gap-2 bg-[#292b2f] w-fit p-2 rounded-xl text-white mx-auto mt-20'
+					className='flex items-center gap-2 bg-[#292b2f] w-fit p-2 rounded-xl text-white mx-auto mt-20 hover:scale-105 transition-all duration-150 delay-0'
 				>
 					<FaDiscord className='w-6 h-6' />
 					<span>Join our Discord!</span>
